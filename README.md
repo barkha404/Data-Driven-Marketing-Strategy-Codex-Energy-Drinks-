@@ -9,6 +9,8 @@ Analyze survey data to gain insights into consumer preferences, brand awareness,
 
 ![image](https://github.com/user-attachments/assets/c5ff9f67-c0ba-4ba3-924e-8c3fa9b65111)
 
+![image](https://github.com/user-attachments/assets/4144c867-81cb-40c2-9b38-327eeca4bdb5)
+
 
 
 
